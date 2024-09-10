@@ -1,0 +1,37 @@
+
+
+    .plu  {
+        color: rgb(255, 255, 255);
+        background-color: green;
+        border: 0ch;
+        border-radius: 20px;
+        width: 50px;
+    }
+     .min  {
+        color: rgb(255, 255, 255);
+        background-color: rgb(255, 51, 0);
+        border: 0ch;
+        border-radius: 20px;
+        width: 50px;
+    }
+
+    p{
+        color: #ffffff;
+    }
+    body{
+        text-align: center;
+        justify-content: center;
+        align-items: center; 
+        display: flex;
+    }
+    div{
+        text-align: center;
+        justify-content: center;
+        align-items: center; 
+        width:fit-content;
+        height: fit-content;
+        background-color: rgb(156, 156, 156);
+        padding: 20px;
+        border-radius: 20px;
+        margin-top: 100px;
+    }
